@@ -1,4 +1,4 @@
-# Anomaly Detector & Geological Quality Control Tool
+# PLAD-Petrophysic-logs-anomaly-detector
 
 
 
