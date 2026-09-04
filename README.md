@@ -85,8 +85,9 @@ ipytest
 
 
 ## 📖 Como Usar
+## 📖 How to Use
 
-
+🇧🇷
 
 1.  Faça o upload dos seus dados `.las` e planilhas de litologia para o diretório indicado no notebook.
 
@@ -96,11 +97,24 @@ ipytest
 
 4.  O sistema gerará um arquivo `.zip` contendo o relatório forense completo e as tabelas de anomalias prontas para uso em outros softwares (como Petrel ou Techlog).
 
+🇺🇸
 
+1.  Upload your .las data and lithology spreadsheets to the directory indicated in the notebook.
+
+2.  Configure the interest groups in the grupos_mahalanobis dictionary (e.g., Basic Petrophysics, Spectral, etc.).
+
+3.  Execute the cells sequentially.
+
+4.  The system will generate a .zip file containing the complete forensic report and anomaly tables ready for use in other software (such as Petrel or Techlog).
 
 ## 🎓 Referência
+## 🎓 Reference
 
-
+🇧🇷
 
 Este script foi desenvolvido como parte de uma pesquisa técnica focada em **Qualidade de Dados e Detecção de Outliers em Perfis de Poço**, aplicando métodos de estatística multivariada robusta para reservatórios complexos. 
+
+🇺🇸
+
+This script was developed as part of a technical research focused on Data Quality and Outlier Detection in Well Logs, applying robust multivariate statistics methods for complex reservoirs.
 
